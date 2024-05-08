@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EsoheAideyan
 - 👀 I’m interested in Coding and Software Development
-- 🌱 I’m currently learning jAVA, Python and C programming
-- 💞️ I’m looking to collaborate on Software Project
+- 🌱 I’m currently learning Java, React and Shell command programming
+- 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me @esoheaideyan@gmail.com, 
 
 <!---
